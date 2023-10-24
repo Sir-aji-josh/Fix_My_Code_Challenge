@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-""" FizzBuzz Script
-    This script defines a function to play the FizzBuzz game and handles command-line arguments.
-    FizzBuzz
+""" FizzBuzz
     Change of logic if (i % 3) == 0 and (i % 5) == 0:
 """
 import sys
